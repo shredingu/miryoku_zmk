@@ -10,3 +10,4 @@ jobs:
     with:
       board: '["nice_nano_v2"]'
       shield: '["sweeq_left","sweeq_right"]'
+      nav: 'vi'
