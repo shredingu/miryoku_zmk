@@ -1,4 +1,4 @@
 outboard_repository=shredingu/sweeq-module
-outboard_ref=main
+outboard_ref=trackpad
 outboard_from=boards/shields/sweeq
 outboard_to=boards/shields/sweeq
