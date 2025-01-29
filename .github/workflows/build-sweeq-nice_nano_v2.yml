@@ -11,6 +11,7 @@ jobs:
       board: '["nice_nano_v2"]'
       shield: '["sweeq_left","sweeq_right"]'
       nav: '["vi"]'
+      modules: '["shredingu/cirque-input-module/main"]'
       # custom_config: '["#define MIRYOKU_KLUDGE_MOUSEKEYSPR"]'
       # kconfig: '["CONFIG_ZMK_MOUSE=y"]'
       # branches:
