@@ -12,8 +12,9 @@ jobs:
       shield: '["sweeq_left","sweeq_right"]'
       nav: '["vi"]'
       modules: '["shredingu/cirque-input-module/feat/idle-waker-wake-from-sleep-fixes"]'
+      custom_config: '["#define MIRYOKU_KLUDGE_SOFT_OFF"]'
       # custom_config: '["#define MIRYOKU_KLUDGE_MOUSEKEYSPR"]'
-      # kconfig: '["CONFIG_ZMK_MOUSE=y"]'
+      kconfig: '["CONFIG_ZMK_PM_SOFT_OFF=y"]'
       # branches:
       #   '["zmkfirmware/zmk/main
       #   shredingu/zmk/feat/pointers-move-scroll"]'
