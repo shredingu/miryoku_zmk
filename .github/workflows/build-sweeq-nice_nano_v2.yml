@@ -11,7 +11,7 @@ jobs:
       board: '["nice_nano_v2"]'
       shield: '["sweeq_left","sweeq_right"]'
       nav: '["vi"]'
-      modules: '["shredingu/cirque-input-module/main"]'
+      modules: '["shredingu/cirque-input-module/feat/idle-waker-wake-from-sleep-fixes"]'
       # custom_config: '["#define MIRYOKU_KLUDGE_MOUSEKEYSPR"]'
       # kconfig: '["CONFIG_ZMK_MOUSE=y"]'
       # branches:
